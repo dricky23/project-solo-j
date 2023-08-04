@@ -28,7 +28,7 @@ let miniArticleArray = [
         name: "Blog 1",
         date: "August 2, 2023",
         content:"I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of learning in the Frontend Developer Career Path. I am adding more sample text plus errors to see he he oh..",
-        img: "/css/article-computer-main.jpg",
+        img: "/images/article-computer-main.jpg",
         id: "1"
     },
     {
