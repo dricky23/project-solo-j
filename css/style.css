@@ -2,7 +2,7 @@ html,
 body {
     padding: 0;
     font-size: 1rem;
-    font-family: Source Sans Pro;
+    font-family:'Times New Roman', Times, serif;
 }
 
 body,ul,footer,#main-article,#article-link {
